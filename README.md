@@ -31,6 +31,15 @@ cd lumina-applications
 # Follow setup instructions in docs/
 ```
 
+
+## 🔄 Active development
+
+This repo is a **2026-02-08 snapshot** kept as reviewer evidence. Active Lumina development happens in:
+- **[lumina-oss](https://github.com/mlesnews/lumina-oss)** — AI-native workflow primitives
+- **[lumina-homelab](https://github.com/mlesnews/lumina-homelab)** — Defensive AI homelab plugin
+
+See [`SYNC_STATUS.md`](./SYNC_STATUS.md) for full mirror status.
+
 ---
 **Status:** Production Ready | **Last Updated:** 2026-02-08
 **Part of:** Lumina AI Framework Multi-Repository Architecture
